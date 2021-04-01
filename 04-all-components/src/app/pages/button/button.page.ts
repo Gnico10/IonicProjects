@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ButtonPage implements OnInit {
 
-  favorito: boolean = false;
+  favorito = false;
 
   constructor() { }
 
