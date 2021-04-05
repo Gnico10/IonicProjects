@@ -36,5 +36,4 @@ export class InfinitePage implements OnInit {
       this.ioninfiteScroll.complete();
     }, 1500);
   }
-
 }
