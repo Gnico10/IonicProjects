@@ -82,5 +82,10 @@
         "icon": "code-working-outline",
         "name": "ProgressBar",
         "redirectTo": "/progress"
+    },
+    {
+        "icon": "arrow-down-circle-outline",
+        "name": "Refresher",
+        "redirectTo": "/refresher"
     }
 ]
