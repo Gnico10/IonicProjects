@@ -19,7 +19,7 @@ export class PopoverPage implements OnInit {
       component: PopoverInfoComponent,
       event: ev,
       translucent: true,
-      mode:"md",
+      mode: "md",
       backdropDismiss: false
     });
 
